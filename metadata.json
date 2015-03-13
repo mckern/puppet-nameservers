@@ -1,0 +1,12 @@
+{
+  "name": "mckern-nameservers_facts",
+  "version": "1.0.0",
+  "author": "Ryan McKern",
+  "summary": "Custom Facts pertaining to system DNS resolution",
+  "license": "Apache-2.0",
+  "source": "git@github.com:mckern/puppet-nameservers.git",
+  "project_page": "https://github.com/mckern/puppet-nameservers",
+  "issues_url": null,
+  "description": "A Puppet module that exposes information about the system DNS resolver as Facts",
+  "dependencies": []
+}
